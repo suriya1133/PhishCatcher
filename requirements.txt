@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP and BERT
+transformers
+tokenizers
+torch  # Needed for BERT
+
+# URL and Web utilities
+tldextract
+requests
+urllib3
+
+# Other
+joblib
+Flask  # Optional if you're creating a web app
+python-dotenv  # To manage secrets if needed

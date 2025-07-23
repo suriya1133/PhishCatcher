@@ -1,0 +1,4 @@
+Timestamp,URL,CNN_Pred,LSTM_Pred,ML_Vote,Final_Label,Heuristics
+2025-04-18T20:17:07.106912,https://trezor-ia.deuse.dev/login/?next=/cashflow/...,N/A,N/A,N/A,PHISHING,Unreachable
+2025-04-18T20:17:26.555772,https://welcompay.com/centre,N/A,N/A,N/A,PHISHING,Unreachable
+2025-04-18T20:17:42.973441,https://instagram.com,PHISHING,LEGITIMATE,PHISHING,PHISHING,None
